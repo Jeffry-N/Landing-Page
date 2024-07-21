@@ -67,6 +67,7 @@ a {
     width: 90px;
     font-size: 20px;
     border-radius: 10%;
+    cursor: pointer;
 }
 
 
@@ -129,4 +130,31 @@ a {
     display: flex;
     align-self: flex-end;
     text-align: end;
+}
+
+.sec4 {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    padding: 40px;
+    color: white;
+}
+
+.lbtn {
+    background-color: #3882F6;
+    border-color: #f9f8f9;
+    color:#f9f8f9;
+    height: 30px;
+    width: 80px;
+    margin-left: 20%;
+    box-shadow: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.lt {
+    font-weight: bold;
+    font-size: 20px;
 }
