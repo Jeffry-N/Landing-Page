@@ -1,5 +1,6 @@
-body {
+.sec1 {
     background-color: #1F2937;
+    padding-bottom: 80px;
 }
 
 .container {
@@ -75,3 +76,35 @@ a {
     margin-left: 50px;
 }
 
+.h3title {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 10px;
+}
+
+.containerIII {
+    display: flex;
+    justify-content: center;
+}
+
+.midimage {
+    height: 120px;
+    width: 120px;
+    border: #3882F6 solid;
+    border-radius: 20%;
+    margin-right: 10px;
+}
+
+.desc2 {
+    color:black;
+    margin-right: 10px;
+}
+
+.containerIV {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
