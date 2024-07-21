@@ -108,3 +108,25 @@ a {
     justify-content: center;
     margin-bottom: 30px;
 }
+
+.sec3 {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+}
+
+.sig {
+    font-weight: bold;
+    display: flex;
+    align-self: flex-end;
+    text-align: end;
+}
